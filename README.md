@@ -1,1 +1,1 @@
-# Statistical-Methods
+# Statistical Methods
